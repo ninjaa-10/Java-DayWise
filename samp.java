@@ -2,7 +2,7 @@ public class samp
 {
     public static void main(String[] args)
     {
-        String s="banana";
+        String s="bananaaaaaaaaaaaaaaaaa";
         int ch[]=new int[26];
         for(int i=0;i<s.length();i++)
         {
